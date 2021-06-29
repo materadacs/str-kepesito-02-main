@@ -1,0 +1,21 @@
+.card {
+    width: 650px;
+    text-emphasis: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+};
+img  {
+    width: 90%;
+    align-items: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+h3 {
+    text-align: center;
+    color: rgb(226, 78, 27);
+}
